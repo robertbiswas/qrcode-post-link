@@ -1,1 +1,1 @@
-=== Post link QR Code generator for WordPress ===
+# Post link QR Code generator for WordPress
